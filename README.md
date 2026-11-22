@@ -1,5 +1,7 @@
 # Text-to-Image Generative AI Web Application
 
+**Frontend repo:** [GenAI-project-frontent](https://github.com/Devansh0112/GenAI-project-frontent) (React)
+
 This project implements a full-stack web application using the Stable Diffusion model to generate images from text prompts. The implementation includes both a Python backend for model fine-tuning and inference, and a React frontend for user interaction.
 
 ## Architecture Overview
